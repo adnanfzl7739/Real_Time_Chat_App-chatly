@@ -123,6 +123,4 @@ All routes except `signup`, `login`, and `logout` require authentication via the
 | `stopTyping` | Client ↔ Server | Notifies the receiver that typing has stopped |
 | `newConnection` | Server → Client | Notifies a user in real time when someone connects with their code |
 
-## License
 
-No license specified yet 
