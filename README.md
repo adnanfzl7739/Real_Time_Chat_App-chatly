@@ -125,4 +125,4 @@ All routes except `signup`, `login`, and `logout` require authentication via the
 
 ## License
 
-No license specified yet — add one (e.g. MIT) if you intend this to be open source.
+No license specified yet 
